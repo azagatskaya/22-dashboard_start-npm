@@ -1,0 +1,15 @@
+{
+  "name": "study-npm",
+  "version": "1.0.0",
+  "description": "stydy npm project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "azaga",
+  "license": "ISC",
+  "dependencies": {
+    "is-number": "^7.0.0",
+    "moment": "^2.29.3"
+  }
+}
